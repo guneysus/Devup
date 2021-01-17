@@ -1,5 +1,7 @@
 # Devup
 
+> CLI tool for executing developer automation scripts defined in YAML
+
 ## Installation
 
 The idea @ybrs's project-switcher, reimplemented with .NET.
