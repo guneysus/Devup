@@ -1,6 +1,6 @@
 # Devup
 
-> CLI tool for executing developer automation scripts defined in YAML
+> YAML based, docker-compose like tools, helping to start development environments 
 
 ## Installation
 
